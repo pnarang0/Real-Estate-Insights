@@ -30,7 +30,7 @@ This milestone focused on **improving the structure and quality** of our dataset
 
 Standardizing and encoding also ensures our future dashboard will perform more efficiently and accurately.
 
-These transformations are made not just to enable technical improvements, but also to help **real estate agents and potential homebuyers** better interpret housing trends. For example, a real estate agent can now understand how pricing per square foot varies with amenities and layout quality.
+These transformations are made not just to enable technical improvements, but also to help **real estate agents**  for better interpret housing trends. For example, a real estate agent can now understand how pricing per square foot varies with amenities and layout quality.
 
 ---
 
