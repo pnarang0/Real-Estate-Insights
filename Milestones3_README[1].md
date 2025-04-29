@@ -46,7 +46,7 @@ This milestone successfully delivered a functional, interactive dashboard that p
 
 ---
 
-## What’s Next? (Milestone 4 Preview)
+## What’s Next? (Final Preview)
 
 ### Goals:
 1. **User Feedback Integration:**
